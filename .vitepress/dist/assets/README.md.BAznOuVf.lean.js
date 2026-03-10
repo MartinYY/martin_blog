@@ -1,0 +1,1 @@
+import{_ as a,o as n,c as e,ae as i}from"./chunks/framework.EHGTsUvI.js";const b=JSON.parse('{"title":"VuePress 2 博客","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),l={name:"README.md"};function p(r,s,t,h,c,d){return n(),e("div",null,[...s[0]||(s[0]=[i("",32)])])}const u=a(l,[["render",p]]);export{b as __pageData,u as default};
