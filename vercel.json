@@ -2,7 +2,7 @@
   "installCommand": "npm install",
   "buildCommand": "npm run build",
   "outputDirectory": "src/.vuepress/dist",
-  "framework": "vuepress",
+  "framework": null,
   "rewrites": [
     {
       "source": "/:path*",

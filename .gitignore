@@ -4,3 +4,4 @@ src/.vuepress/.temp/
 src/.vuepress/.cache/
 .DS_Store
 *.log
+.vercel
